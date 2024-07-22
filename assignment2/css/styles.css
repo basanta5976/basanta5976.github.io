@@ -2,7 +2,7 @@
 
 html {
     font: 20px/1.5 'Arial', sans-serif;
-    background-color: #f0f0f0;
+    background-color: #d7df34;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 header {
     text-align: center;
     background: linear-gradient(to right, #333, #555);
-    color: white;
+    color: rgba(220, 29, 29, 0.786);
     padding: 1rem 0;
 }
 
@@ -25,7 +25,7 @@ h1 {
 footer {
     font-size: 0.8rem;
     background: linear-gradient(to right, #333, #555);
-    color: white;
+    color: rgb(189, 42, 42);
     text-align: center;
     padding: 1rem 0;
 }
@@ -46,7 +46,7 @@ h2 {
 q {
     font-style: italic;
     border: 2px solid #ccc;
-    box-shadow: 2px 2px 5px #aaa;
+    box-shadow: 2px 2px 5px #dbc8c8;
 }
 
 figure {
@@ -83,7 +83,7 @@ aside ul {
 
 aside ul li a {
     text-decoration: none;
-    color: #0066cc;
+    color: #28c6c6;
     line-height: 1.5;
 }
 
